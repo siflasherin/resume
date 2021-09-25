@@ -1,0 +1,21 @@
+img{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin-left: 96px;
+    padding:0px;
+    border: 2px solid black;
+    
+}
+#icons{
+    padding-left: 100px;
+    align-items:flex-start;
+    
+}
+body{
+    border: 1px solid gray;
+}
+h6{
+    line-height: 25px;
+}
+/* col-md-12 text-center text-md-left p */
